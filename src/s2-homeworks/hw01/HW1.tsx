@@ -34,7 +34,7 @@ export const message0: MessageType = {
         name: 'Some Name',  // можно менять
     },
     message: {
-        text: 'some textsome textsome textsome textsome textsome textsome text', // можно менять
+        text: 'some textsome textsome textsome textsome textsome text', // можно менять
         time: '22:00', // можно менять
     },
 }
@@ -69,3 +69,4 @@ const HW1 = () => {
 }
 
 export default HW1
+
