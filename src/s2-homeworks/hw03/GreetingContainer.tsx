@@ -13,7 +13,7 @@ export const pureAddUser = (name: string, setError: Function, setName: Function,
     else {
         addUserCallback(name);
         setName('')
-        setError("")
+        // setError("")
     }
 }
 
